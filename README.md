@@ -176,4 +176,4 @@ This project demonstrates practical experience with:
   
   ## Project Type
   
-  Portfolio / demonstration automation project built with n8n.
+  Portfolio automation project demonstrating a complete reporting workflow built with n8n.
